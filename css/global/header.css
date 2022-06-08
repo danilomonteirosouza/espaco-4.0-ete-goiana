@@ -11,6 +11,13 @@
     padding-top: 20px;
     padding-bottom: 20px ;
   }
+
+  .menu{
+    height: 70px;
+    width: 100%;
+    color:white;
+    text-align: center;
+    }
   
   .header-menu {
     display: flex;
@@ -22,6 +29,7 @@
     display: inline-block;
     padding: 16px 0px;
     position: relative;
+    text-align: left;
   }
   
   .header-menu a:after {
@@ -62,6 +70,6 @@
     }
     .header-menu a {
       padding: 8px 12px;
-      font-size: 14px;
+      font-size: 14px;]
     }
   }
